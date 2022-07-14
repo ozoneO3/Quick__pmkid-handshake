@@ -1,8 +1,5 @@
 # Quick-PMKID
-easy pmkid capture
-
-# Quick-PMKID
-easy pmkid capture
+easy pmkid captu
 
 quick PMKID capture using bash script
 
