@@ -2,9 +2,7 @@
 
 Requirements
 
-aircrack-ng 
-hcxdumptool
-hcxpcaptool
+aircrack-ng  ;  hcxdumptool  ;  hcxpcaptool
 
 
 
