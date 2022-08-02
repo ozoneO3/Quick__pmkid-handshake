@@ -1,10 +1,10 @@
-# Quick-WPA WPA2 HANDSHAKE/PMKID
-
-quick PMKID capture using bash script
+# multiple wpa wpa2 handshake/pmkid capture using bash script
 
 Requirements
 
-aircrack-ng ; hcxdumptool ; hcxpcaptool
+aircrack-ng 
+hcxdumptool
+hcxpcaptool
 
 
 
