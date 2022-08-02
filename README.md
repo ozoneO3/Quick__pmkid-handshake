@@ -1,4 +1,4 @@
-# Quick-PMKID
+# Quick-WPA WPA2 HANDSHAKE/PMKID
 
 quick PMKID capture using bash script
 
